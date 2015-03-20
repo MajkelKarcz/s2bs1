@@ -1,0 +1,5 @@
+my_book_web:
+    resource: "@MyBookWebBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
